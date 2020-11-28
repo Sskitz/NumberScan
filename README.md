@@ -6,8 +6,7 @@ it will scan the number for the caller location. It wont give the exact location
 
 # how to install 
 
-git clone https://github.com/Sskitz/Number-scan
-
+git clone https://github.com/Sskitz/NumberScan
 cd Number-Scan
 
 python3 scaner.py
